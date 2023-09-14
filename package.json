@@ -9,17 +9,11 @@
   "keywords": [
     "express"
   ],
-  "author": "Diego Lopez",
+  "author": "Juan",
   "license": "ISC",
   "engines": {
-  
-    
     "node": ">=14.20.1"
-    
-    },
-
-
-
+  },
   "dependencies": {
     "body-parser": "^1.20.2",
     "cookie-parser": "^1.4.6",
